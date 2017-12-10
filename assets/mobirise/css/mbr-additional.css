@@ -612,6 +612,103 @@ a:hover {
   color: undefined;
   border-color: undefined;
 }
+#content7-h .mbr-section-title,
+#content7-h .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #fff;
+}
+#content7-h .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content7-h .mbr-table-cell {
+  vertical-align: middle;
+}
 #form1-c .form {
   background: #fafbfc;
+}
+#footer4-m p {
+  color: #000;
+}
+#content1-n P {
+  font-size: 10px;
+}
+#menu1-i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-i .navbar-toggler {
+  color: #74a3c7;
+}
+#menu1-i .close-icon::before,
+#menu1-i .close-icon::after {
+  background-color: #74a3c7;
+}
+#menu1-i .link,
+#menu1-i .dropdown-item {
+  color: #74a3c7;
+  font-family: 'Libre Franklin', serif;
+}
+#menu1-i .link {
+  font-size: 0.8125rem;
+}
+#menu1-i .dropdown-item,
+#menu1-i .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu1-i .link:hover,
+#menu1-i .link:focus {
+  color: #94a5d0;
+}
+#menu1-i .dropdown-item:hover::before,
+#menu1-i .dropdown-item:focus::before {
+  background: #94a5d0;
+}
+#menu1-i .dropdown-item:hover,
+#menu1-i .dropdown-item:focus {
+  color: #74a3c7;
+}
+#menu1-i .link[aria-expanded="true"],
+#menu1-i .dropdown-menu {
+  background: #ffffff;
+}
+#menu1-i .nav-dropdown-sm .link:focus,
+#menu1-i .nav-dropdown-sm .link:hover,
+#menu1-i .nav-dropdown-sm .dropdown-item:focus,
+#menu1-i .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu1-i .navbar,
+#menu1-i .nav-dropdown-sm,
+#menu1-i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-i .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu1-i .bg-color.transparent .link {
+  color: #74a3c7;
+  transition: none;
+}
+#menu1-i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-i .bg-color.transparent.opened .link:hover,
+#menu1-i .bg-color.transparent.opened .link:focus {
+  color: #94a5d0;
+}
+#menu1-i .link[aria-expanded="true"],
+#menu1-i .dropdown-item[aria-expanded="true"] {
+  color: #94a5d0!important;
+}
+#content3-k .mbr-section-title,
+#content3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#form1-q .form {
+  background: #fafbfc;
+}
+#footer4-m p {
+  color: #000;
+}
+#content1-o P {
+  text-align: left;
+  font-size: 10px;
 }
