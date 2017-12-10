@@ -22,7 +22,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 15,
     "versionPublish": "4.5.1"
   },
   "pages": {
@@ -90,9 +90,9 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -107,11 +107,11 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"true\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -122,7 +122,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CANNASPHERES™</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -161,7 +161,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CannaSpheres™",
-          "text": "Cannaspheres ™, CannaSpecs ™, Cannrbles ™&nbsp;- it doens't matter what you call them. They are going to fundimentally alter how concentrates are manufactured, measured, regulated, sold, stored, and consumed by adult-use and medical consumers.",
+          "text": "Cannaspheres ™, CannaSpecs ™, Cannarbles ™&nbsp;- it doens't matter what you call them. They are going to fundimentally alter how concentrates are manufactured, measured, regulated, sold, stored, and consumed by adult-use and medical consumers.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a>",
           "_tags": [
             "Theme"
@@ -367,6 +367,149 @@
           "_anchor": "features7-a",
           "_styles": {
             ".mbr-iconfont": {}
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formBg": "#fafbfc",
+            "formHeader": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Hear more about CannaSpheres™",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Be first to get the latest news, uptades, and product info from CannaSpheres™",
+          "form": {
+            "action": "nudcohen@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send message</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-c",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Like CannaSpheres™?Share this page!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "share1",
+          "_anchor": "share1-b"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": 10,
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "Copyright 2016, Mobirise. License: <a href=\"http://mobirise.com\">EULA</a>",
+          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-e",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
           }
         }
       ]

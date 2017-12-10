@@ -612,3 +612,17 @@ a:hover {
   color: undefined;
   border-color: undefined;
 }
+#form1-c .form {
+  background: #fafbfc;
+}
+#footer2-e .footer-list {
+  color: #74a3c7;
+}
+#footer2-e .btn-social {
+  border-color: #74a3c7;
+  color: #74a3c7;
+}
+#footer2-e .btn-social:hover {
+  background: #74a3c7;
+  color: #fff;
+}
