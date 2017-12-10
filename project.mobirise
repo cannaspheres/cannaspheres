@@ -22,7 +22,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 3,
+    "uniqCompNum": 11,
     "versionPublish": "4.5.1"
   },
   "pages": {
@@ -211,9 +211,9 @@
             }
           },
           "number1": "<p>1</p>",
-          "title1": "Problem",
+          "title1": "EXTRACT FUTURE",
           "subtitle1": "Awesome",
-          "text1": "Highly",
+          "text1": "Most extracts and concentrates are messy and unstable due to manufacturing issues and temperature fluctuations while standard dosing is almost nonexistent. Inhaling heated cannabis extract (vaping, dabbing, etc.) is a growing and preferred means of consuming Cannabis quickly and easily.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -226,9 +226,9 @@
             }
           },
           "number2": "<p>2</p>",
-          "title2": "Sulution",
+          "title2": "MEDICAL",
           "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text2": "Without specific dosing, medical applications continue to be a challenge. While other atomizer-type products are in development and may be ideal for some indications, they don’t address a patient or consumer who strives for a flexible consumption process (dab, add to joint, vape, create your own edibles) that creates no excess waste or debris to discard (metal or glass capsules, containers, syringes, etc).",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -241,9 +241,9 @@
             }
           },
           "number3": "<p>3</p>",
-          "title3": "Future",
+          "title3": "ADULT-USE",
           "subtitle3": "Awesome",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text3": "Without more professional, uniform, and stable appearance, cannabis concentrates remain a highly varied and uncontrolled realm for the current consumer. One “batch” purchased at a dispensary will be shattered and falling out of a package while the next might be solid. Consistency in any manufacture/purchase/consumption process is key.",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
@@ -270,6 +270,103 @@
               "color": "@primaryColor",
               "border-color": "@primaryColor"
             }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "left",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": 0.5
+          },
+          "title": "CannaSpheres™ Solution",
+          "text": "Concentrates should be made into manipulatable, variable, but carefully measured doses. They will be manufactured so they don’t stick to each other and so they are smokable or vaporizable or consumed oraly more easily. Developing proprietary methods including hemp cellulose micro-coating and rapid temperature changes during manufacturing CannaSpheres™ is a hand-held concetrate no-mess manufacturing solution. Gel-caps revolutionized how liquid is delivered to patients.&nbsp;CannaSpheres™ is working to reformulate the messy and varied consentrate realm as cannabis spreds into new markets provided clean, carefully measured, varied dose methods.<br><br>What CannaSpheres™ creates is a stable measured dose coated or treated in such a way as to keep it distinct and intact for each dose. 1 gram of shatter or wax, for example, would not come on a sheet of wax paper or silicon jar as a clump, or metal cartridge that's disposable waste or needs messy refil syringes. Packaged as dozens of individual spheres or devided into 200 tiny “specks” or micro doses. All CannaSpheres ™ CannaSpecks™ Cannarbles™ are decarboxylated too - so they can be added to food and be effective at the measured dose provided.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Team of teams:",
+          "text": "CannaSpheres™",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/04.jpg"
+            }
+          },
+          "title1": "ISRAEL",
+          "subtitle1": "Awesome",
+          "text1": "Cannabis research international hub, adult-use products&nbsp;",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/05.jpg"
+            }
+          },
+          "title2": "COLORADO",
+          "subtitle2": "Awesome",
+          "text2": "Able to impliment fast product testing and develpment for current adult-use and medical markets, adapting and refining technologies, bringing them to markets.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features7",
+          "_anchor": "features7-a",
+          "_styles": {
+            ".mbr-iconfont": {}
           }
         }
       ]

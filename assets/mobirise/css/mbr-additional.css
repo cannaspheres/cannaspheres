@@ -596,3 +596,19 @@ a:hover {
   color: #94a5d0;
   border-color: #94a5d0;
 }
+#content7-5 .mbr-section-title,
+#content7-5 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #fff;
+}
+#content7-5 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content7-5 .mbr-table-cell {
+  vertical-align: middle;
+}
+#features7-a .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
