@@ -353,12 +353,15 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/05.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "title2": "COLORADO",
           "subtitle2": "Awesome",
-          "text2": "CannaSpheres™ is able to impliment fast product testing and develpment for current and future adult-use and medical markets, adapting and refining our technologies and reasearch to market.",
+          "text2": "CannaSpheres™ is able to impliment fast product testing and develpment for current and future adult-use and medical markets - adapting and refining our technologies and reasearch to market.",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
