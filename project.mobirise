@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CannaSpheres™",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -127,7 +127,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CANNASPHERES™</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:cannaspheres@gmail.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CANNASPHERES™</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -471,7 +471,7 @@
               }
             }
           },
-          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send message</a>",
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send message</a>",
           "_tags": [
             "Theme"
           ],
@@ -645,7 +645,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CANNASPHERES™</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:cannaspheres@gmail.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CANNASPHERES™</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
