@@ -491,7 +491,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#1f8068",
             "overlay": true,
             "overlayColor": "#fff",
             "overlayOpacity": 0.9,
@@ -501,12 +501,22 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Like CannaSpheres™?<i>Share this page!</i>",
+          "text": "Like CannaSpheres™?<br><i>Share this page!</i>",
           "_tags": [
             "Theme"
           ],
           "_name": "share1",
-          "_anchor": "share1-b"
+          "_anchor": "share1-b",
+          "_styles": {
+            ".mbr-section-title I": {
+              "color": "#000000",
+              "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "color": "#fffcf6",
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_styles": {

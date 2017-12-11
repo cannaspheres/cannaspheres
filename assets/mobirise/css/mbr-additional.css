@@ -627,6 +627,14 @@ a:hover {
 #form1-c .form {
   background: #fafbfc;
 }
+#share1-b .mbr-section-title I {
+  color: #000000;
+  font-size: 48px;
+}
+#share1-b .mbr-section-title {
+  color: #fffcf6;
+  font-size: 48px;
+}
 #footer4-m p {
   color: #000;
 }
