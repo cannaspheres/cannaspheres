@@ -22,7 +22,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 30,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/img-2699-128x96_1.png",
     "noImageResize": "",
@@ -152,7 +152,7 @@
             "showButtons": true,
             "contentAlign": "center",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "containerColor1": "#084a6e",
@@ -166,8 +166,8 @@
             "overlayOpacity": 0.5
           },
           "title": "CannaSpheres™",
-          "text": "Cannaspheres ™, CannaSpecs ™, Cannarbles ™&nbsp;- it doens't matter what you call them. They are going to fundamentally alter how concentrates are manufactured, measured, regulated, sold, stored, and consumed by adult-use and medical consumers.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content7-5\" data-toolbar=\"-mbrBtnMove\">Solution</a>",
+          "text": "Cannaspheres ™, CannaSpecs ™, Cannarbles ™&nbsp;- it doens't matter what you call them. They are going to fundamentally alter how cannabis concentrates are manufactured, measured, regulated, sold, stored, and consumed by adult-use and medical consumers.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content7-5\" data-toolbar=\"-mbrBtnMove\">Solution</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content7-5\" data-toolbar=\"-mbrBtnMove\">Challenge</a>",
           "_tags": [
             "Theme"
           ],
@@ -190,7 +190,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/messy-dabs-858x304.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fffffd",
@@ -200,7 +200,7 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": 0.85
+            "overlayOpacity": "0.6"
           },
           "title": "Always on your terms",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
@@ -278,6 +278,102 @@
           }
         },
         {
+          "_inherit": "msg-box2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showIcons": false,
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "imageSize": "74",
+            "iconsNumber": "two",
+            "contentAlign": "center",
+            "containerImg": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "CannaSpheres™",
+          "text1": "Stable, measured, pure, variably dosed concetrates.",
+          "text2": "Changing the way etracts are manufactured, marketed, sold, consumed.",
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/row-of-cannaspheres-1825x195.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-t"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "margin-bottom": "1rem",
@@ -330,7 +426,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fffffd",
@@ -378,44 +474,39 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#fff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "contentAlign": "left",
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2d2d2d",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
+            "bgColorRadio": true,
+            "bgColor": "#1f8068",
             "overlay": true,
-            "overlayColor": "#2d2d2d",
-            "overlayOpacity": 0.5
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
-          "title": "CannaSpheres™",
-          "text": "Is not a concentrate or marijuana grow company.&nbsp;Cannaspheres™ develops proprietary methods, machines, materials, and packaging for a new way of manufacturing and distributing legal adult-use and medical cannabis concentrates.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch Demo</a>",
+          "text": "Like CannaSpheres™?<br><i>Share this page!</i>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_anchor": "content7-h"
+          "_name": "share1",
+          "_anchor": "share1-b",
+          "_styles": {
+            ".mbr-section-title I": {
+              "color": "#000000",
+              "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "color": "#fffcf6",
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_params": {
@@ -484,39 +575,44 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#1f8068",
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
           },
-          "text": "Like CannaSpheres™?<br><i>Share this page!</i>",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "right",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": 0.5
+          },
+          "title": "CannaSpheres™",
+          "text": "Is not a concentrate or marijuana grow company.&nbsp;Cannaspheres™ develops proprietary methods, machines, materials, and packaging for a new way of manufacturing and distributing legal adult-use and medical cannabis concentrates.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch Demo</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "share1",
-          "_anchor": "share1-b",
-          "_styles": {
-            ".mbr-section-title I": {
-              "color": "#000000",
-              "font-size": "48px"
-            },
-            ".mbr-section-title": {
-              "color": "#fffcf6",
-              "font-size": "48px"
-            }
-          }
+          "_name": "content7",
+          "_anchor": "content7-h"
         },
         {
           "_styles": {

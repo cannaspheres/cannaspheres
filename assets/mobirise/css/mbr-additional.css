@@ -596,6 +596,13 @@ a:hover {
   color: #94a5d0;
   border-color: #94a5d0;
 }
+#msg-box6-t .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#msg-box6-t .round-text {
+  color: #fff;
+}
 #content7-5 .mbr-section-title,
 #content7-5 .mbr-section-subtitle {
   margin-bottom: 1rem;
@@ -612,6 +619,17 @@ a:hover {
   color: undefined;
   border-color: undefined;
 }
+#share1-b .mbr-section-title I {
+  color: #000000;
+  font-size: 48px;
+}
+#share1-b .mbr-section-title {
+  color: #fffcf6;
+  font-size: 48px;
+}
+#form1-c .form {
+  background: #fafbfc;
+}
 #content7-h .mbr-section-title,
 #content7-h .mbr-section-subtitle {
   margin-bottom: 1rem;
@@ -623,17 +641,6 @@ a:hover {
 }
 #content7-h .mbr-table-cell {
   vertical-align: middle;
-}
-#form1-c .form {
-  background: #fafbfc;
-}
-#share1-b .mbr-section-title I {
-  color: #000000;
-  font-size: 48px;
-}
-#share1-b .mbr-section-title {
-  color: #fffcf6;
-  font-size: 48px;
 }
 #footer4-m p {
   color: #000;
