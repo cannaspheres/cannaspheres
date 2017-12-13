@@ -184,7 +184,7 @@
             "showButtons": false,
             "contentAlign": "center",
             "columns": 3,
-            "showFeaturesImages": true,
+            "showFeaturesImages": false,
             "iconsBgColor": "@primaryColor",
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
