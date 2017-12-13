@@ -112,7 +112,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"true\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -167,7 +167,7 @@
           },
           "title": "CannaSpheres™",
           "text": "Cannaspheres ™, CannaSpecs ™, Cannarbles ™&nbsp;- it doens't matter what you call them. They are going to fundamentally alter how cannabis concentrates are manufactured, measured, regulated, sold, stored, and consumed by adult-use and medical consumers.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content7-5\" data-toolbar=\"-mbrBtnMove\">Solution</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content7-5\" data-toolbar=\"-mbrBtnMove\">Challenge</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box6-t\" data-toolbar=\"-mbrBtnMove\">Solution</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features12-2\" data-toolbar=\"-mbrBtnMove\">Challenge</a>",
           "_tags": [
             "Theme"
           ],
@@ -317,7 +317,7 @@
             "Theme"
           ],
           "title": "CannaSpheres™",
-          "text1": "Stable, measured, pure, variably dosed concetrates.",
+          "text1": "Stable, measured, simple, pure, variably dosed concetrates.",
           "text2": "Changing the way etracts are manufactured, marketed, sold, consumed.",
           "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
           "media": {
@@ -387,7 +387,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "contentAlign": "left",
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -588,7 +588,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "contentAlign": "right",
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -607,7 +607,7 @@
           },
           "title": "CannaSpheres™",
           "text": "Is not a concentrate or marijuana grow company.&nbsp;Cannaspheres™ develops proprietary methods, machines, materials, and packaging for a new way of manufacturing and distributing legal adult-use and medical cannabis concentrates.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch Demo</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">JUMP TO TOP</a>",
           "_tags": [
             "Theme"
           ],
@@ -736,7 +736,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"true\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
