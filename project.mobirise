@@ -618,10 +618,10 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.9"
           },
           "title": "About CannaSpheres™",
-          "text": "*Cannaspheres™ develops proprietary methods, machines, materials, and packaging for manufacturing and distributing legal adult-use and medical cannabis concentrates.&nbsp;All information, claims, or representations contained on this Site are speculative a nd pending and subject to licensing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information. CannaSpheres™ is not a concentrate or marijuana grow company. ",
+          "text": "*Cannaspheres™ develops proprietary methods, machines, materials, and packaging for manufacturing and distributing legal adult-use and medical cannabis concentrates.&nbsp;All information, claims, or representations contained on this Site are speculative and pending and subject to licensing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information. CannaSpheres™ is not a concentrate or marijuana grow company. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">CANNASPHERES</a>",
           "_tags": [
             "Theme"
