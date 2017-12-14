@@ -22,7 +22,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 36,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/img-2699-128x96_1.png",
     "noImageResize": "",
@@ -47,20 +47,20 @@
               "display": "none !important"
             },
             ".navbar-toggler": {
-              "color": "#74a3c7"
+              "color": "#fffffd"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#74a3c7"
+              "background-color": "#fffffd"
             },
             ".link, .dropdown-item": {
-              "color": "#74a3c7",
+              "color": "#fffffd",
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -69,19 +69,19 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#74a3c7"
+              "color": "#fffffd"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#616161"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#595959!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
+              "background": "#616161"
             },
             ".bg-color.transparent .link": {
-              "color": "#74a3c7",
+              "color": "#fffffd",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -101,15 +101,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fff",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "bgColor": "#616161",
+            "fontSize": "0.75",
+            "imageSize": "4",
             "fontName": {
               "name": "Libre Franklin",
               "css": "'Libre Franklin', serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             },
-            "fontColor": "#74a3c7",
+            "fontColor": "#fffffd",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
@@ -144,6 +144,12 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#000000"
+            },
+            ".heading-text": {
+              "color": "#616161"
             }
           },
           "_params": {
@@ -151,18 +157,18 @@
             "showText": true,
             "showButtons": true,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
             "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#084a6e",
-            "containerColor2": "#24a383",
+            "bgColorRadio": false,
+            "containerColor1": "#ffe3ab",
+            "containerColor2": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#fffffd",
             "overlayOpacity": 0.5
           },
           "title": "CannaSpheres™",
@@ -200,7 +206,7 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "title": "Always on your terms",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
@@ -297,8 +303,8 @@
             "iconsColor": "#ffffff",
             "iconsNumber": "two",
             "imageSize": 50,
-            "containerColor1": "#ffe3ab",
-            "containerColor2": "#fffffd",
+            "containerColor1": "#fffffd",
+            "containerColor2": "#ffe3ab",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
@@ -321,7 +327,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/3-spheres-alpha-778x226.png",
+              "src": "@PROJECT_PATH@/assets/images/alpha2-786x227.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -584,17 +590,25 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "color": "#000000",
+              "font-size": "12px",
+              "text-align": "left"
+            },
+            ".heading-title": {
+              "color": "#000000"
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
-            "showButtons": true,
-            "contentAlign": "right",
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "showButtons": false,
+            "contentAlign": "left",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/row-of-cannaspheres-1825x195.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2d2d2d",
@@ -603,12 +617,12 @@
               "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#2d2d2d",
-            "overlayOpacity": 0.5
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.9"
           },
           "title": "About CannaSpheres™",
-          "text": "CannaSpheres™ is not a concentrate or marijuana grow company.&nbsp;Cannaspheres™ develops proprietary methods, machines, materials, and packaging for manufacturing and distributing legal adult-use and medical cannabis concentrates.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">JUMP TO TOP</a>",
+          "text": "*Cannaspheres™ develops proprietary methods, machines, materials, and packaging for manufacturing and distributing legal adult-use and medical cannabis concentrates.&nbsp;All information, claims, or representations contained on this Site are speculative and pending and subject to licensing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information. CannaSpheres™ is not a concentrate or marijuana grow company. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">CANNASPHERES</a>",
           "_tags": [
             "Theme"
           ],
@@ -639,31 +653,13 @@
           ],
           "_name": "footer4",
           "_anchor": "footer4-m"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "*All information, claims, or representations contained on this Site are speculative and pending and subject to licensing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-n",
-          "_styles": {
-            "P": {
-              "font-size": "10px"
-            }
-          }
         }
       ]
     },
     "page1.html": {
       "settings": {
         "title": "Privacy and Site Policy",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -726,15 +722,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fff",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "bgColor": "#616161",
+            "fontSize": "0.75",
+            "imageSize": "4",
             "fontName": {
               "name": "Libre Franklin",
               "css": "'Libre Franklin', serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             },
-            "fontColor": "#74a3c7",
+            "fontColor": "#fffffd",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
@@ -902,6 +898,179 @@
               "font-size": "10px"
             }
           }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "About Cannaspheres",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fffffd"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fffffd"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fffffd",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fffffd"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fffffd",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#94a5d0!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#616161",
+            "fontSize": "0.75",
+            "imageSize": "4",
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#fffffd",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:cannaspheres@gmail.com\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:cannaspheres@gmail.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CANNASPHERES™</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-w"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"page1.html#content3-k\">Privacy</a> and <a href=\"page1.html#content3-k\">Site Policy</a>&nbsp;- Copyright (c) 2017 CannaSpheres™.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "color": "#000000"
+            },
+            ".heading-title": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "right",
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/row-of-cannaspheres-1825x195.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.9"
+          },
+          "title": "About CannaSpheres™",
+          "text": "CannaSpheres™ is not a concentrate or marijuana grow company.&nbsp;Cannaspheres™ develops proprietary methods, machines, materials, and packaging for manufacturing and distributing legal adult-use and medical cannabis concentrates.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#header5-1\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-y"
         }
       ]
     }

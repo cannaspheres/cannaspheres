@@ -519,23 +519,23 @@ a:hover {
   display: none !important;
 }
 #menu1-0 .navbar-toggler {
-  color: #74a3c7;
+  color: #fffffd;
 }
 #menu1-0 .close-icon::before,
 #menu1-0 .close-icon::after {
-  background-color: #74a3c7;
+  background-color: #fffffd;
 }
 #menu1-0 .link,
 #menu1-0 .dropdown-item {
-  color: #74a3c7;
+  color: #fffffd;
   font-family: 'Libre Franklin', serif;
 }
 #menu1-0 .link {
-  font-size: 0.8125rem;
+  font-size: 0.75rem;
 }
 #menu1-0 .dropdown-item,
 #menu1-0 .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.812rem;
 }
 #menu1-0 .link:hover,
 #menu1-0 .link:focus {
@@ -547,26 +547,26 @@ a:hover {
 }
 #menu1-0 .dropdown-item:hover,
 #menu1-0 .dropdown-item:focus {
-  color: #74a3c7;
+  color: #fffffd;
 }
 #menu1-0 .link[aria-expanded="true"],
 #menu1-0 .dropdown-menu {
-  background: #ffffff;
+  background: #616161;
 }
 #menu1-0 .nav-dropdown-sm .link:focus,
 #menu1-0 .nav-dropdown-sm .link:hover,
 #menu1-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu1-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #595959!important;
 }
 #menu1-0 .navbar,
 #menu1-0 .nav-dropdown-sm,
 #menu1-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu1-0 .nav-dropdown-sm .dropdown-menu {
-  background: #fff;
+  background: #616161;
 }
 #menu1-0 .bg-color.transparent .link {
-  color: #74a3c7;
+  color: #fffffd;
   transition: none;
 }
 #menu1-0 .bg-color.transparent.opened .link {
@@ -591,6 +591,12 @@ a:hover {
 }
 #header5-1 .mbr-table-cell {
   vertical-align: middle;
+}
+#header5-1 .heading-title {
+  color: #000000;
+}
+#header5-1 .heading-text {
+  color: #616161;
 }
 #features12-2 .mbr-iconfont {
   color: #94a5d0;
@@ -644,11 +650,16 @@ a:hover {
 #content7-h .mbr-table-cell {
   vertical-align: middle;
 }
+#content7-h .heading-text {
+  color: #000000;
+  font-size: 12px;
+  text-align: left;
+}
+#content7-h .heading-title {
+  color: #000000;
+}
 #footer4-m p {
   color: #000;
-}
-#content1-n P {
-  font-size: 10px;
 }
 #menu1-i .hide-buttons .nav-btn {
   display: none !important;
@@ -728,4 +739,90 @@ a:hover {
 #content1-o P {
   text-align: left;
   font-size: 10px;
+}
+#menu1-w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-w .navbar-toggler {
+  color: #fffffd;
+}
+#menu1-w .close-icon::before,
+#menu1-w .close-icon::after {
+  background-color: #fffffd;
+}
+#menu1-w .link,
+#menu1-w .dropdown-item {
+  color: #fffffd;
+  font-family: 'Libre Franklin', serif;
+}
+#menu1-w .link {
+  font-size: 0.75rem;
+}
+#menu1-w .dropdown-item,
+#menu1-w .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu1-w .link:hover,
+#menu1-w .link:focus {
+  color: #94a5d0;
+}
+#menu1-w .dropdown-item:hover::before,
+#menu1-w .dropdown-item:focus::before {
+  background: #94a5d0;
+}
+#menu1-w .dropdown-item:hover,
+#menu1-w .dropdown-item:focus {
+  color: #fffffd;
+}
+#menu1-w .link[aria-expanded="true"],
+#menu1-w .dropdown-menu {
+  background: #616161;
+}
+#menu1-w .nav-dropdown-sm .link:focus,
+#menu1-w .nav-dropdown-sm .link:hover,
+#menu1-w .nav-dropdown-sm .dropdown-item:focus,
+#menu1-w .nav-dropdown-sm .dropdown-item:hover {
+  background: #595959!important;
+}
+#menu1-w .navbar,
+#menu1-w .nav-dropdown-sm,
+#menu1-w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-w .nav-dropdown-sm .dropdown-menu {
+  background: #616161;
+}
+#menu1-w .bg-color.transparent .link {
+  color: #fffffd;
+  transition: none;
+}
+#menu1-w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-w .bg-color.transparent.opened .link:hover,
+#menu1-w .bg-color.transparent.opened .link:focus {
+  color: #94a5d0;
+}
+#menu1-w .link[aria-expanded="true"],
+#menu1-w .dropdown-item[aria-expanded="true"] {
+  color: #94a5d0!important;
+}
+#footer4-x p {
+  color: #000;
+}
+#content7-y .mbr-section-title,
+#content7-y .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #fff;
+}
+#content7-y .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content7-y .mbr-table-cell {
+  vertical-align: middle;
+}
+#content7-y .heading-text {
+  color: #000000;
+}
+#content7-y .heading-title {
+  color: #000000;
 }
