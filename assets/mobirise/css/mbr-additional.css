@@ -596,12 +596,14 @@ a:hover {
   color: #94a5d0;
   border-color: #94a5d0;
 }
-#msg-box6-t .mbr-section-title {
-  color: #fff;
-  line-height: 1;
+#msg-box3-u H1 {
+  color: #000000;
 }
-#msg-box6-t .round-text {
-  color: #fff;
+#msg-box3-u P {
+  color: #ffffff;
+}
+#msg-box3-u .round-text {
+  color: #000000;
 }
 #content7-5 .mbr-section-title,
 #content7-5 .mbr-section-subtitle {

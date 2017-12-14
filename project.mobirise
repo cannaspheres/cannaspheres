@@ -22,7 +22,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/img-2699-128x96_1.png",
     "noImageResize": "",
@@ -278,26 +278,27 @@
           }
         },
         {
-          "_inherit": "msg-box2",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "line-height": "1"
+            "H1": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#ffffff"
             },
             ".round-text": {
-              "color": "#fff"
+              "color": "#000000"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "inverse": false,
             "showIcons": false,
             "iconsBorder": true,
             "iconsColor": "#ffffff",
-            "imageSize": "74",
             "iconsNumber": "two",
-            "contentAlign": "center",
-            "containerImg": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "imageSize": 50,
+            "containerColor1": "#ffe3ab",
+            "containerColor2": "#fffffd",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
@@ -313,9 +314,6 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.8
           },
-          "_tags": [
-            "Theme"
-          ],
           "title": "CannaSpheres™",
           "text1": "Stable, measured, simple, pure, variably dosed concetrates.",
           "text2": "Changing the way etracts are manufactured, marketed, sold, consumed.",
@@ -323,7 +321,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/row-of-cannaspheres-1825x195.png",
+              "src": "@PROJECT_PATH@/assets/images/3-spheres-alpha-778x226.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -370,8 +368,11 @@
               "family": "MobiriseIcons"
             }
           },
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-t"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-u"
         },
         {
           "_styles": {
